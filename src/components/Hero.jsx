@@ -110,7 +110,7 @@ export default function Hero() {
               View Projects →
             </a>
             <a
-              href="https://drive.google.com/file/d/10G9uEZKF9RxCW53HtYzKp5-BPbD2fVvp/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1tBb81sdkt9GucxIGpDn0kpK_DU-axYfp/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 border border-border text-offwhite font-mono text-sm tracking-wide hover:border-orange-500 hover:text-orange-400 transition-all"

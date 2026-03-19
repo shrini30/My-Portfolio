@@ -47,7 +47,7 @@ export default function Nav() {
         </div>
 
         <a
-          href="https://drive.google.com/file/d/10G9uEZKF9RxCW53HtYzKp5-BPbD2fVvp/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1tBb81sdkt9GucxIGpDn0kpK_DU-axYfp/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="font-mono text-xs tracking-widest border border-orange-500 text-orange-400 px-4 py-2 hover:bg-orange-500 hover:text-charcoal transition-all"
