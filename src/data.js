@@ -5,7 +5,7 @@ export const profile = {
   email: 'shrinjoyee30@gmail.com',
   github: 'https://github.com/shrini30',
   linkedin: 'https://linkedin.com/in/shrinjoyee-chatterjee-1a0975266/',
-  resumeUrl: 'https://drive.google.com/file/d/10G9uEZKF9RxCW53HtYzKp5-BPbD2fVvp/view?usp=drive_link',
+  resumeUrl: 'https://drive.google.com/file/d/1tBb81sdkt9GucxIGpDn0kpK_DU-axYfp/view?usp=sharing',
 }
 
 export const about = `Computer Science Engineer with a strong foundation in data analytics, machine learning, and intelligent system design. I transform raw, complex data into actionable insights and build production-ready ML pipelines. My work spans structured data analysis, deep learning for computer vision, NLP-driven knowledge systems, and end-to-end software engineering — always with a focus on measurable impact.`
@@ -21,7 +21,7 @@ export const experience = [
   {
     company: 'Nordex Acciona',
     role: 'Data Analyst Intern / GET',
-    period: '2024',
+    period: '2026',
     location: 'India',
     points: [
       'Built Python (Pandas, NumPy) pipelines to validate and clean large-scale wind turbine sensor datasets',
@@ -34,7 +34,7 @@ export const experience = [
   {
     company: 'Eldyne Group',
     role: 'IT Support Intern',
-    period: '2023',
+    period: '2025',
     location: 'India',
     points: [
       'Debugged and resolved critical system and API integration issues across internal tools',
